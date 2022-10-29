@@ -1,4 +1,5 @@
 # Functions - tasks
+
 Using your knowledge from the Functions segment, write the following functions:
 
 1. Write a function that multiplies the number passed in a parameter by two and prints the result to the console.
