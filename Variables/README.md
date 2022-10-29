@@ -1,4 +1,5 @@
 # Variables - tasks
+
 Using the knowledge gained in the Variables section, solve the following tasks:
 
 1. Make a variable C to represent the speed of light. Assume that the speed of light is 299792458,
